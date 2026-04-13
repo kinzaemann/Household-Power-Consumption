@@ -205,4 +205,13 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+📚 Skills Demonstrated
+✅ Time series parsing, cleaning & multi-resolution resampling
+✅ Interactive EDA with Plotly (trends, seasonality, heatmaps, correlations)
+✅ Statistical stationarity testing (ADF) & seasonal decomposition
+✅ Advanced feature engineering (lags, rolling stats, cyclical encoding)
+✅ Three forecasting paradigms: statistical, decomposition-based, ML
+✅ Rigorous evaluation with MAE, RMSE, MAPE + residual diagnostics
+✅ Production-quality interactive visualizations with confidence intervals
 
+If you found this project useful, please ⭐ star this repository!
